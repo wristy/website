@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -13,7 +14,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    #gem 'therubyracer'
     gem 'unicode_utils'
     gem 'webrick'
 end

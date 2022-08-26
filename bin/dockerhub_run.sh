@@ -1,4 +1,4 @@
-FILE=Gemfile.lock
+bundle installFILE=Gemfile.lock
 if [ -f "$FILE" ]; then
     rm $FILE
 fi

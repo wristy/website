@@ -7,4 +7,4 @@ importance: 1
 category: work
 ---
 
-Hosted on streamlit, link [here](https://wristy-special-sniffle-bears-7jrbq9.streamlitapp.com/). Code [here](https://github.com/wristy/special-sniffle)
+Hosted on streamlit, link [here](https://wristy-bearsclassifier-bears-5g0cls.streamlitapp.com/). Code [here](https://github.com/wristy/bearsclassifier)

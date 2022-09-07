@@ -26,9 +26,9 @@ My internship focused on four different areas:
 	a. An attempt was made to use reinforcement learning methods, specifically Deep Q-Networks (DQN) and PPO (proximal policy optimiztaion) to perform classification. The notebook can be found [here](www.google.com)
 	 - Can Reinforcement Learning be used in classification.pptx (presentation on using DQN, PPO and MCTS feature selection with comparison to other machine learning techniques)
 		
-4. Logic Regression
+3. Logic Regression
 
     - I investigated the use of logic regression, a method for ensembling binary classifiers by [Kooperberg and Ruczinski](www.google.com).
     - [Monte Carlo Logic Regression](www.google.com) was implemented and the notebook can be found [here](www.google.com)
 	
-5. Investigated ratio of features to samples. Powerpoint presentation can be found [here](/assets/img/alzheimers.webp)
+4. Investigated ratio of features to samples. Powerpoint presentation can be found [here](/assets/img/alzheimers.webp)

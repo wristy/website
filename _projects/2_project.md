@@ -2,7 +2,7 @@
 layout: page
 title: Alzheimer's disease classification
 description: a classifier for Alzheimer's disease using genetic data
-img: assets/img/bears.jpg
+img: assets/img/alzheimers.webp
 importance: 1
 category: work
 ---

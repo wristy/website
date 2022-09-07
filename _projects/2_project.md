@@ -9,26 +9,16 @@ category: work
 
 As part of my internship at the Agency for Science, Technology and Research (A*STAR), Institute for High Performance Computing (IHPC), I worked under Dr. Wu Yonghui to investigate methods to build classifiers for Alzheimer's disease based on genetic data. 
 
-1. Feature Selection
-Folder containing material related to feature selection, and includes additional subfolders:
-
-	a. MCTS
-	folder containing material related to feature selection using Monte Carlo Tree Search based on the paper by Romaric and Sebag
-	 - Feature Selection as a One-Player Game.pdf (the paper by Romaric and Sebag)
-	 - MCTS and Feature Selection.pptx (slides explaining the paper)
-	 - Monte Carlo Tree Search - From Playing Go to Feature Selection.pdf (slides created by paper authors to explain the paper)
-	 - notebook (folder containing Jupyter notebook containing code snippets to run MCTS feature selection. contains example alzheimers dataset as well)
-	 - alphaFUSE (folder containing program for MCTS feature selection algorithm)
+My internship focused on four different areas:
+1. Feature selection
+    - Monte Carlo Tree Search (MCTS)
+        - MCTS is a best-first tree search algorithm first described by Romaric and Sebag. This can be used to run feature selection, a critical issue in genetic data as the number of features is in the order of millions and there are features with significant correlations. 
+        - A notebook containing the experiments to run feature selection can be found [here](www.google.com).
+        
+    -  SparSNP
+        - a tool used to fit lasso linear models for large SNP datasets, useful also for feature selection
 	 
-	b. SparSNP
-	folder containing material related to SparSNP, a tool used to fit lasso linear models for large SNP datasets, useful also for feature selection
-	 - SparSNP.pptx (slides explaining the paper)
-	 - sparsnp_paper.pdf (the paper explaining SparSNP)
-	 - SparSNP (folder containing the SparSNP program - run on linux/WSL)
-	 - cmd.txt (contains bash arguments to run SparSNP on linux)
-	 - SparSNP_processing.ipynb (to process the topsnps.csv file produced by SparSNP)
-	 
-	- Feature_selection_comparison_VIFs,_MCTS,_Lasso,_SparSNP.ipynb (jupyter notebook performing experiments with various feature selection methods, including Lasso, MCTS, Variance Inflation Factors (VIFs) and SparSNP)
+	- Notebook performing experiments with various feature selection methods, including Lasso, MCTS, Variance Inflation Factors (VIFs) and SparSNP.
 	 
 2. Reinforcement Learning
 Folder containing material related to reinforcement learning
@@ -41,7 +31,7 @@ Folder containing material related to reinforcement learning
 	 - notebook (folder containing jupyter notebook for running DQN, PPO on alzheimer's dataset, with comparison to other methods)
 	 - Can Reinforcement Learning be used in classification.pptx (presentation on using DQN, PPO and MCTS feature selection with comparison to other machine learning techniques)
 	 
-3.GenNet
+3. GenNet
 folder containing material related to GenNet (run on linux machine)
 	 - GenNet (folder containing the GenNet program)
 	 - cmd.txt (folder containing the command arguments to run GenNet on Linux)

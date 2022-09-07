@@ -31,4 +31,4 @@ My internship focused on four different areas:
     - I investigated the use of logic regression, a method for ensembling binary classifiers by [Kooperberg and Ruczinski](www.google.com).
     - [Monte Carlo Logic Regression](www.google.com) was implemented and the notebook can be found [here](www.google.com)
 	
-4. Investigated ratio of features to samples. Powerpoint presentation can be found [here](/assets/img/alzheimers.webp)
+4. Investigated the ideal ratio of features to samples. Powerpoint presentation can be found [here](/assets/img/alzheimers.webp)

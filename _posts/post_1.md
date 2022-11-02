@@ -1,0 +1,11 @@
+---
+layout: post
+title:  a post with formatting and links
+date:   2022-11-03 00:12:16
+description: fysa
+tags: gatech
+categories: blog
+---
+
+*Post still being drafted*
+

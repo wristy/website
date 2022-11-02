@@ -1,7 +1,7 @@
 ---
 layout: post
 title: thoughts on singapore
-date: 2022-11-03 16:40:16
+date: 2022-11-01 16:40:16
 description: singapore
 ---
 
